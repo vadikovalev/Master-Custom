@@ -9,11 +9,12 @@
     }
     body {
         background-image: url(/img/klipartz.com\ \(14\).png);
+        
         margin: 0 auto;
 
     }
     .main_page h1 {
-        font-size: 18px;
+        font-size: 20px;
        
        text-align: center;
        padding-right: 60px;
@@ -22,7 +23,7 @@
     .main_page p {
         font-size: 14px;
         line-height: 35px;
-        padding-left: ;
+        padding-top:10px ;
         
     }
     .main_page {
